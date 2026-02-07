@@ -16,7 +16,7 @@ The model is trained on labeled news data and achieves strong classification per
 
 
 
-- Text preprocessing with \*\*NLTK\*\* (stopwords removal, lemmatization)
+- Text preprocessing with **NLTK** (stopwords removal, lemmatization)
 
 - **TF-IDF** vectorization with unigrams and bigrams
 
